@@ -2,15 +2,43 @@
 html, body {
   background-color: #eee;
 }
+
+body{font-family:"Pontano",sans-serif;}
+p {margin:0 0 9px;font-family:"Pontano",sans-serif;}
+
 .navbar {
+	overflow:visible;
   margin-bottom: 0;
+  background-color: #fff;
 }
+
+.navbar .brand:hover{text-decoration:none;}
+
+.navbar .brand{
+	color:black;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.navbar-inner2 {
+  padding-left:20px;
+	padding-right:20px;
+}
+
 .container > footer {
-  margin-top: 20px;
+  margin-top: 16px;
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
 }
+
+.container{
+	width:940px;
+	margin-left:auto;
+	margin-right:auto;
+	*zoom:1;
+}.container:before,.container:after{display:table;content:"";}
+
 
 /* The white background content wrapper */
 .content {
