@@ -4,17 +4,10 @@ title: Home
 ---
 {% include JB/setup %}
 
-# Introduction
+## Introduction
 
-Below are lectures. The first lecture about software development is Systems - SYS101.
+To the left are classes you can take at Iterative University.
 
-If you want to understand how Iterative University approaches learning, please start with Learning - LRN101.
-
-## Sample Sessions
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+- The first class you should take is SYS101 - Introduction to Systems
+- To understand how we approach learning take LRN101 - Introduction to Learning
 
