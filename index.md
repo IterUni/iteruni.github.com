@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Iterative University
+title: Home
 ---
 {% include JB/setup %}
 
@@ -10,7 +10,7 @@ Below are lectures. The first lecture about software development is Systems - SY
 
 If you want to understand how Iterative University approaches learning, please start with Learning - LRN101.
 
-# Sample Sessions
+## Sample Sessions
 
 <ul class="posts">
   {% for post in site.posts %}
