@@ -5,16 +5,19 @@ html, body {
 
 body {
 	background-color: #eee;
+	font-size:18px;
 }
 
 p {
-	margin:4px 0px 4px;
+	margin:6px 0px 6px;
 	font-family:"Pontano",sans-serif;
+	font-size:18px;
 }
 
-h1{font-size:28px;line-height:30px;}h1 small{font-size:18px;}
-h2{font-size:24px;line-height:26px;}h2 small{font-size:18px;}
-h3{line-height:27px;font-size:18px;}h3 small{font-size:14px;}
+
+h1{font-size:28px;line-height:32px;}h1 small{font-size:18px;}
+h2{font-size:24px;line-height:28px;}h2 small{font-size:18px;}
+h3{line-height:22px;font-size:24px;}h3 small{font-size:14px;}
 h4,h5,h6{line-height:18px;}
 h4{font-size:14px;}h4 small{font-size:12px;}
 h5{font-size:12px;}
