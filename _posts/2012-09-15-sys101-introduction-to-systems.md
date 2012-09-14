@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(SYS101) Introduction to Systems"
-description: ""
+description: "What are they all about?"
 category: Systems
 tags: []
 ---
