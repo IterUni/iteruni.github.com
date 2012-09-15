@@ -176,8 +176,9 @@ ul.bodytext, ol.bodytext {
 }
 
 #content {
-	width: 625px;
-	max-width: 90%;
+	max-width: 100%;
+	margin-left: 4px;
+	margin-right: 4px;
 }
 
 #controlbar_container {
@@ -263,6 +264,7 @@ ul.bodytext, ol.bodytext {
 	padding: 0;
 	border: 0;
 	margin: 0;
+	text-overflow: ellipsis;
 }
 
 #controlbar #nav a,
