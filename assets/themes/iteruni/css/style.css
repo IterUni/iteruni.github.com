@@ -9,10 +9,6 @@ body {
 	color: #403929;
 }
 
-body {
-	max-width: 625px;
-}
-
 h1 {
 	font-size: 1.2em;
 }
@@ -177,6 +173,11 @@ ul.bodytext, ol.bodytext {
 .popover > :last-child {
 	margin-bottom: 0;
 	padding-bottom: 0;
+}
+
+#content {
+	width: 625px;
+	max-width: 90%;
 }
 
 #controlbar_container {
@@ -516,7 +517,8 @@ a, a:visited, a:active {
 .figure {
 }
 .figure img{
-	max-width:500px;
+		max-width: 100%;
+		height: auto;
 }
 
 .figure p {
