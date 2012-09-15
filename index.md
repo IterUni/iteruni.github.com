@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Home
+class: "HOME"
+description_main: "Iterative University"
+title: "HOME - Iterative University"
 ---
 {% include JB/setup %}
 
 ## Introduction
 
-To the left are classes you can take at Iterative University.
+Select a class from the upper left corner.
 
-- The first class you should take is <a href="./Systems/sys101-introduction-to-systems/">SYS101 - Introduction to Systems</a>.
-- To understand how we approach learning take <a href="./Learning/lrn101-introduction-to-learning/">LRN101 - Introduction to Learning</a>.
+- The first class you should take is <a href="./Systems/sys101/">SYS101 - Introduction to Systems</a>.
+- To understand how we approach learning take <a href="./Learning/lrn101/">LRN101 - Introduction to Learning</a>.
 

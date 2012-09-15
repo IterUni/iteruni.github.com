@@ -1,3 +1,5 @@
+/*
+
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1;}
 audio:not([controls]){display:none;}
@@ -88,7 +90,7 @@ dl{margin-bottom:18px;}
 dt,dd{line-height:18px;}
 dt{font-weight:bold;}
 dd{margin-left:9px;}
-hr{margin:18px 0;border:0;border-top:1px solid #eeeeee;border-bottom:1px solid #ffffff;}
+hr{margin:18px 0;border:0;border-top:1px solid #eeeeee;border-borderottom:1px solid #ffffff;}
 strong{font-weight:bold;}
 em{font-style:italic;}
 .muted{color:#999999;}
@@ -629,3 +631,5 @@ a.thumbnail:hover{border-color:#0088cc;-webkit-box-shadow:0 1px 4px rgba(0, 105,
 .hide{display:none;}
 .show{display:block;}
 .invisible{visibility:hidden;}
+
+*/
