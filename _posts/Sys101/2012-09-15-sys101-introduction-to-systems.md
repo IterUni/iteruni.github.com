@@ -102,6 +102,10 @@ Mathematicians try to describe natural systems using mathematics. It is interest
 ### Social Systems
 
 
+<div class="figure">
+<p><img alt='Examples of manmade systems.' src='/assets/img/systemExampleDisciplineSocial.jpg' /></p>
+<p>Image-X: The abacus is a tool used to perform arithmetic calculations.</p>
+</div>
 
 
 ## Assignments
@@ -121,10 +125,11 @@ Mathematicians try to describe natural systems using mathematics. It is interest
 
 ## References
 
-Image-3 from http://en.wikipedia.org/wiki/File:Kugleramme.jpg
+Image-3 from http://cs.wikipedia.org/wiki/Soubor:Abacus-5822.jpg
 Image-X from http://upload.wikimedia.org/wikipedia/commons/2/29/Steam_engine_Woudagemaal.jpg
 Image-X2 from http://sv.wikipedia.org/wiki/Fil:Cutaway_steam_locomotive.jpg
 
 http://en.wikipedia.org/wiki/File:Simulation_of_gas_cloud_after_close_approach_to_the_black_hole_at_the_centre_of_the_Milky_Way.jpg
 
 
+http://en.wikipedia.org/wiki/File:Grabstein_einer_Frau_mit_Dienerin.jpg
