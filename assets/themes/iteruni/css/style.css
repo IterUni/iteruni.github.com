@@ -446,6 +446,8 @@ a, a:visited, a:active {
 }
 
 /* 320-pixel layout for iPhone-sized screens */
+
+/*
 @media (max-width: 580px) {
 
 	body {
@@ -485,6 +487,8 @@ a, a:visited, a:active {
 	}
 
 }
+
+*/
 
 /* printer-friendly */
 @media print {
