@@ -17,6 +17,20 @@ After taking this session you should be able to:
 
 ## Introduction
 
+I am going to provide a quick definition of what a system is but I don't expect you to understand it right now.
+
+> **System** - A system is a set (grouping/composition) of two or more interacting objects that form an integrated whole with a purpose.
+
+> “A \[system is a\] whole that cannot be divided into independent parts without losing its essential characteristics as a whole”. (Ackoff, 1981, pp. 64-65)
+
+That kinda seems simple enough, but really understanding what systems are about is a lot more than just memorising a few definitions. So, let's look at a few examples.
+
+## Examples of Systems
+
+
+
+
+
 
 
 
