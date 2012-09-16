@@ -91,7 +91,6 @@ sup, sub {
 	color: #403929;
 	border-right: 1px solid #ccc;
 	text-decoration: none;
-	text-align: center;
 	font-size: 1.2em;
 	margin: 0;
 	padding-left: .5em;
@@ -103,7 +102,6 @@ sup, sub {
 	color: #403929;
 	border-right: 1px solid #ccc;
 	text-decoration: none;
-	text-align: center;
 	margin: 0;
 	list-style: none;
 }
@@ -198,9 +196,10 @@ a, a:visited, a:active {
 		margin-top: 15px;
 }
 
-.figure p {
+.figure h1 {
 	text-align: center;
 	font-style: italic;
+	font-size: 1em;
 	text-indent: 0em;	
 	margin-top: -15px;
 }
