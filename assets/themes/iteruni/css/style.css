@@ -2,11 +2,15 @@ body {
 	font-family: Verdana, Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	word-wrap: break-word;
-	margin: 90px auto 0px auto;
+	margin: 60px auto 0px auto;
 	padding-bottom: 100px; /* pagination buffer */
 	position: relative;
 	background-color: #f7f2e6;
 	color: #403929;
+}
+
+p + p {
+  text-indent: 1.5em;
 }
 
 h1 {
@@ -116,10 +120,9 @@ pre, code {
 }
 
 blockquote {
-	border-top: 1px solid #bbb;
-	border-bottom: 1px solid #bbb;
-	margin: 1.5em 0;
-	padding: 0.5em 0;
+	border-left: 4px solid #bbb;
+	padding-left: 20px;
+	margin-left: 20px;
 }
 
 blockquote.short {
@@ -525,10 +528,12 @@ a, a:visited, a:active {
 .figure img{
 		max-width: 100%;
 		height: auto;
+		margin-top: 15px;
 }
 
 .figure p {
 	text-align: center;
 	font-style: italic;
 	text-indent: 0em;	
+	margin-top: -15px;
 }
