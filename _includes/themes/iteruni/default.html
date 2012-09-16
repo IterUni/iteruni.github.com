@@ -7,6 +7,7 @@
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
 		<link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+		<link href="http://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
 
 		<!--[if lt IE 9]>
 		<style type="text/css">
@@ -21,7 +22,7 @@
      <div id="controlbar_container">
          <div id="controlbar" class="hover_capable">
 						<div id="nav">
-							<ul >
+							<ul>
 								<li><a href="#" class="textbutton">Classes</a>
 									<ul>
 											{% include JB/setup %}
@@ -36,11 +37,12 @@
 											{% endfor %}
 									</ul>
 								</li>
+							</ul>	
 						</div>
 						<div id="left_buttons">
 							<a href="/" class="textbutton">Home</a>
 						</div>
-             <div id="title_label">{{ page.class }} - {{ page.description_main }}</div>
+             <div class="title_text" id="title_label">{{ page.class }} - {{ page.description_main }}</div>
          </div>
      </div>
 				
