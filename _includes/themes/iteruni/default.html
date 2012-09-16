@@ -17,12 +17,12 @@
 		<title>{{ page.class }} - {{ page.description_main }}</title>
   </head>
 
-  <body class="medwidthmode verdanamode">
-     <div id="controlbar_container" class="touchignore">
+  <body>
+     <div id="controlbar_container">
          <div id="controlbar" class="hover_capable">
 						<div id="nav">
-							<ul class="textbutton">
-								<li><a href="#">Classes</a>
+							<ul >
+								<li><a href="#" class="textbutton">Classes</a>
 									<ul>
 											{% include JB/setup %}
 											{% for category in site.categories %} 
@@ -40,7 +40,7 @@
 						<div id="left_buttons">
 							<a href="/" class="textbutton">Home</a>
 						</div>
-             <div id="title_label"><a href="/{{ page.category }}/{{ page.class }}/">{{ page.class }} - {{ page.description_main }}</a></div>
+             <div id="title_label">{{ page.class }} - {{ page.description_main }}</div>
          </div>
      </div>
 				
