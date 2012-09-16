@@ -10,41 +10,17 @@ body {
 	max-width: 625px;
 }
 
-p + p {
-  text-indent: 1.5em;
-}
+p + p { text-indent: 1.5em; }
 
-h1, h2, h3, h4, h5, h6 {
-	color: #555;
-}
+h1, h2, h3, h4, h5, h6 { color: #555; }
+h1 { font-size: 1.5em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.2em; }
+h5 { font-size: 1.1em; }
+h6 { font-size: 1.0em; }
 
-h1 {
-	font-size: 1.5em;
-}
-
-h2 {
-	font-size: 1.4em;
-}
-
-h3 {
-	font-size: 1.3em;
-}
-
-h4 {
-	font-size: 1.2em;
-}
-
-h5 {
-	font-size: 1.1em;
-}
-
-h6 {
-	font-size: 1.0em;
-}
-
-#titlebar h2 {
-	margin-top: -20px;
-}
+#titlebar h2 { margin-top: -20px; }
 
 footer {
 	direction: ltr;
@@ -96,7 +72,7 @@ sup, sub {
 	height: 40px;
 }
 
-#controlbar #left_buttons, #nav, #nav ul {
+#left_buttons, #nav, #nav ul {
 	float: left;
 }
 
@@ -106,7 +82,6 @@ sup, sub {
 	display: inline-block;
 	position: relative;
 	color: #555;
-	border-left: 1px solid #ccc;
 	border-right: 1px solid #ccc;
 	text-decoration: none;
 	text-align: center;
@@ -167,16 +142,6 @@ sup, sub {
 	margin: 0;
 }
 
-#controlbar #left_buttons a, 
-#controlbar #left_buttons a:visited, 
-#controlbar #left_buttons a:active,
-#nav a, 
-#nav a:visited, 
-#nav a:active { 
-	border-left: 0;
-}
-
-
 #nav ul ul {
 	display: none;
 }
@@ -220,10 +185,8 @@ a, a:visited, a:active {
 
 #nav ul li a {
 	display: block;
-	padding: 0px 0px;
-	padding-top: 0px;
-	margin-top: 0px;
-	height: 24px;
+	padding: 0px;
+	margin: 0px;
 }
 
 #nav ul ul {
@@ -238,7 +201,7 @@ a, a:visited, a:active {
 	text-align:left;
 	width: auto;
 	padding: 10px 10px 10px 10px;
-	white-space:nowrap;
+	white-space: nowrap;
 }
 
 #nav ul ul li {
